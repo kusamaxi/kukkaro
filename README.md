@@ -10,6 +10,9 @@ Kusama ecosystem lacks secure wallet extension that has fido2 authentication ena
 
 We are looking to use purely rust for extension to keep it real.
 
+todo: research possibility to use virto's libwallet.
+https://github.com/virto-network/libwallet
+
 ## Running kukkaro
 
 ```bash
